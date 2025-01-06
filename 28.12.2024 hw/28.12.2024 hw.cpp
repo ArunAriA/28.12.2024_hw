@@ -232,3 +232,4 @@ int main()
 	cout << "\nV vvedennom vami tekste, simvol '" << findCh
 		<< "' vstrechaetsa " << countChar << " raza\n";
 }
+
